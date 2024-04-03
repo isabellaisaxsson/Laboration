@@ -1,0 +1,5 @@
+C:\Users\BingBong\Documents\TUC yrkeshögskola\Fördjupad programmering\Laboration\obj\Debug\net8.0\Laboration.csproj.AssemblyReference.cache
+C:\Users\BingBong\Documents\TUC yrkeshögskola\Fördjupad programmering\Laboration\obj\Debug\net8.0\Laboration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BingBong\Documents\TUC yrkeshögskola\Fördjupad programmering\Laboration\obj\Debug\net8.0\Laboration.AssemblyInfoInputs.cache
+C:\Users\BingBong\Documents\TUC yrkeshögskola\Fördjupad programmering\Laboration\obj\Debug\net8.0\Laboration.AssemblyInfo.cs
+C:\Users\BingBong\Documents\TUC yrkeshögskola\Fördjupad programmering\Laboration\obj\Debug\net8.0\Laboration.csproj.CoreCompileInputs.cache
